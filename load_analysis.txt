@@ -1,0 +1,11 @@
+=== LOAD ANALYSIS ===
+⚠ Overloaded links:
+  - R2 <-> R3: load 110.00 Mbps > capacity 1.00 Mbps
+    No alternate path; consider capacity upgrade or redundancy.
+  - R3 <-> R2: load 110.00 Mbps > capacity 1.00 Mbps
+    No alternate path; consider capacity upgrade or redundancy.
+  - R3 <-> SW_192.168.30.0/24: load 110.00 Mbps > capacity 100.00 Mbps
+    No alternate path; consider capacity upgrade or redundancy.
+  - SW_192.168.30.0/24 <-> R3: load 110.00 Mbps > capacity 100.00 Mbps
+    No alternate path; consider capacity upgrade or redundancy.
+ℹ OSPF appears adequate; consider BGP if connecting to external AS or policy-heavy paths.

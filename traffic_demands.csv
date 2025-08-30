@@ -1,0 +1,3 @@
+src_subnet,dst_subnet,mbps,priority
+SW_192.168.10.0/24,SW_192.168.30.0/24,60,high
+SW_192.168.20.0/24,SW_192.168.30.0/24,50,low

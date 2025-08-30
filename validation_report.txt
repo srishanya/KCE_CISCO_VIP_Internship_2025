@@ -1,0 +1,4 @@
+=== VALIDATION REPORT ===
+✅ No duplicate IPs detected.
+✅ No overlapping subnets detected.
+ℹ Graph is not a tree, but no simple cycles found.
